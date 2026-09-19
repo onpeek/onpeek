@@ -1,19 +1,7 @@
-<table>
-<tr>
-<td width="250">
 
-<img src="./avatar.png" width="240">
+Albo ultra clean:
 
-</td>
-<td>
-
+```md
 # onpeek
 
 > software, tools, experiments
-
-currently building **SponsorZero**  
-open-source sponsor skipping for YouTube.
-
-</td>
-</tr>
-</table>
